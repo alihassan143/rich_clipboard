@@ -3,6 +3,7 @@ description: Flutter plugin for accessing rich text and other data types in the 
 homepage: https://github.com/BringingFire/rich_clipboard/tree/dev/rich_clipboard
 repository: https://github.com/BringingFire/rich_clipboard/tree/dev/rich_clipboard
 version: 1.0.1
+publish_to: 'none'
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
